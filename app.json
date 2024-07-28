@@ -23,7 +23,7 @@
         },
     "POSTGRESQL_URL": {
             "description": "Put here postgresql url",
-            "required": true,
+            "required": false,
             "value": "postgres://vajiratech_user:oSIFl2xmSojMZ0rkzdd0g0W6msuVTpNN@dpg-cpd7fjv109ks73e5gtig-a.frankfurt-postgres.render.com/vajiratech"
         } 
     },
